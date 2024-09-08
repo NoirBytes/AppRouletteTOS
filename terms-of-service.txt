@@ -1,0 +1,43 @@
+Terms of Service
+
+Last Updated: 9/8/2024
+
+Welcome to App Roulette! By accessing or using our app, you agree to comply with and be bound by the following Terms of Service. Please read them carefully.
+
+1. Account Creation and Access
+To use our app, you must create an account by providing a username, email address, and password. This information is required to track your deleted apps and upload them to our database. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+
+2. Permissions and Access
+Our app requires permission to access your device’s storage to delete apps. By granting these permissions, you allow us to manage app deletions as per the functionality of the app.
+
+3. App Features
+Spinning the Wheel: You can spin the wheel to delete apps from your device. You may spin the wheel as often as you like.
+Viewing Deleted Apps: You can view apps that you have previously deleted.
+Viewing Other Users' Deleted Apps: You can see which apps have been deleted by other users for comedic purposes.
+Account Management: You can log out of your account and connect to a different one at any time.
+
+4. Data Collection and Use
+Personal Data: Your email address and password are used solely for account creation and management and will not be shared with any third parties.
+Deletion Data: Data regarding deleted apps will be published within the app for comedic purposes. This includes information about apps that you or other users have deleted.
+
+5. Changes to Terms
+We may update these Terms of Service from time to time. If we make significant changes, you will be notified via email. Upon entering the app after a change, you will be prompted to agree to the updated terms. Your continued use of the app after such updates signifies your acceptance of the new terms.
+
+6. Permissions and Access Control
+Once you agree to grant access to storage, this permission remains active until you are prompted to agree again in the future. If you reinstall an app that was previously deleted, we assume that you have re-downloaded it intentionally, which goes against the purpose of our app. In such cases, your account may be terminated for an indefinite period, and you will not be able to use the app.
+
+7. Reporting Issues
+Any issues or problems with the app should be reported through the app reviews. We do not provide personal contact information for direct support.
+
+8. Limitation of Liability
+Our app is designed to delete only manually installed and non-essential apps. While we strive to ensure that our app functions correctly, we are not responsible for any issues caused by the deletion of apps, including those that are crucial to the functionality of your device.
+By using the app, you acknowledge that the deletion of apps is performed at your own risk. We are not liable for any loss or damage resulting from the deletion of apps, whether essential or non-essential.
+
+9. Termination
+We reserve the right to terminate your account if you violate these Terms of Service or for any other reason deemed necessary. Upon termination, you will not be able to use the app.
+
+10. Contact Information
+For any questions regarding these Terms of Service, please refer to the app reviews for assistance.
+
+App Roulette
+Noir Bytes
